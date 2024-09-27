@@ -12,7 +12,7 @@ Comandos do Git:
 - git reset: Desfaz alterações.
 
 
-Principais comandos HTML:
+<!-- Para ajudar você a entender o código, aqui está uma explicação de cada tag:
 
 <!DOCTYPE html> – informa aos navegadores que o site é uma página HTML.
 </html> – a tag de abertura do documento HTML que indica onde o código começa. 
@@ -31,4 +31,4 @@ Adicione o Conteúdo HTML
 
 <h1> e <p> – contêm texto de cabeçalho e parágrafo. Use a tag <br> para criar uma quebra de linha se o texto for muito longo.
 <nav> e <a> — especificam a barra de navegação e seu elemento âncora. Use o atributo href para especificar o URL vinculado ao elemento âncora.  
-<img> – contêiner para o elemento de imagem. Ele contém o atributo img src , que especifica o link ou nome do arquivo de imagem.
+<img> – contêiner para o elemento de imagem. Ele contém o atributo img src , que especifica o link ou nome do arquivo de imagem. -->
