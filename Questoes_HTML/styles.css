@@ -1,0 +1,72 @@
+body{
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif; 
+    margin: 0;
+    padding: 0;
+}
+
+.titulo{
+    display: flex;
+}
+
+h1{
+    color: rgb(27, 214, 214);
+    text-align: center;
+    margin-left: 20px;
+}
+
+p{
+    color: dimgrey;
+    font-family:cursive;
+    font-size: 21px;
+}
+
+img{
+    border: solid palevioletred 5px;
+    border-radius: 25px; /* Arredonda muito os cantos da imagem*/
+    height: 150px;
+}
+
+
+p{
+    color: dimgrey;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+ul{
+    list-style-type: square;
+}
+ul li{font-weight: bold; /* Torna o texto em negrito*/}
+
+ol{
+    list-style-type: upper-roman;
+}
+
+a{
+    color: rgb(130, 173, 238);
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td{
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid #f0cece;
+}
+
+tr :nth-child(even){
+    background-color: rgba(226, 165, 211, 0.863);
+}
+
+th{
+    background-color: rgba(219, 123, 182, 0.829);
+    color: rgb(68, 45, 45);
+}

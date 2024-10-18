@@ -1,0 +1,43 @@
+/* Definir a cor de fundo para toda a pagina e a fonte que sera utilizada */
+body{
+    background-color: #f4f4f4; /* Cor de fundo */
+    font-family: Arial, sans-serif; /* Definir as fontes */
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilização do cabeçalho principal */
+h1{
+    color: blueviolet;
+    text-align: center; /* Alinhamento do texto */
+    padding: 20px; /* Adiciona um espaçamento ao redor do texto */
+    background-color: #4CAF50; /* Cor do fundo */
+}
+
+/* Estilização dos subtitulos H1 e H2*/
+h2, h3{
+    color: rgb(255, 208, 0);
+    text-align: center; 
+    padding: 20px; 
+    background-color: hsl(325, 90%, 47%); 
+}
+
+/* Estilização dos paragrafos */
+p{
+    color: #06e7e7;
+    line-height: 1.6; /* Define a altura da linha para melhorar a legibilidade */
+    margin: 20px;
+}
+
+ /* Estilização da lista não-ordenada*/
+ul{
+    list-style-type: square;
+    margin: 20px;
+}
+
+
+/* Estilização de link */
+a{
+    color:antiquewhite;
+    text-decoration: none; /* remove o sublinhado dos links*/
+}
